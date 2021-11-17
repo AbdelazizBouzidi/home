@@ -2128,10 +2128,10 @@ a.navbar__links{
     width: 100%;
     
 
-       width: 0;
+       /* width: 0;
     height: 0;
     overflow: hidden;
-    opacity: 0;
+    opacity: 0; */
 }
 .present_sponsor,.Last_sponsors{
     display: flex;
@@ -2162,7 +2162,7 @@ opacity: 0;
 
 .present_sponsor_box{
     display: flex;
-    margin-top: 50px;
+    margin-top: 110px;
     align-self: center;
     flex-direction: column;
     justify-content: center;
@@ -2176,8 +2176,8 @@ opacity: 0;
     align-content: center;
     align-items: center;
     width: 100%;
-    margin-top: 80px;
-    margin-bottom: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 .logo_spons_card{
     display: flex;
@@ -2219,6 +2219,13 @@ opacity: 0;
     align-content: center;
     width: 100%;
     flex-wrap: wrap;
+
+
+
+      width: 0;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
 }
 .sponsor_card_small{
     display: flex;
