@@ -76,7 +76,7 @@ const tit2 = document.querySelector(".titre_2");
 const tit3 = document.querySelector(".titre_3");
 const tit4 = document.querySelector(".titre_4_titel");
 const tit5 = document.querySelector(".titre_5_titel");
-const tit6 = document.querySelector(".titre_6_titel");
+const tit6 = document.querySelector(".titre_6_container");
 const tit7 = document.querySelector(".partenaires_titel");
     
 function findPosx(obj){
