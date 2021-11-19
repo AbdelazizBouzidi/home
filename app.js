@@ -111,11 +111,11 @@ const ntba = document.querySelector("#ntb_1");
         window.scrollTo({top :findPosx(tit1),left :0, behavior:"smooth"});
     });
 
-// const ntbb = document.querySelector("#ntb_2");
-//     ntbb.addEventListener("click" , function()
-//     {
-//         window.scrollTo({top :findPosx(tit2)-20,left :0, behavior:"smooth"});
-//     });
+const ntbb = document.querySelector("#ntb_2");
+    ntbb.addEventListener("click" , function()
+    {
+        window.scrollTo({top :findPosx(tit2)-20,left :0, behavior:"smooth"});
+    });
 
  const ntbc = document.querySelector("#ntb_3");
     ntbc.addEventListener("click" , function()
@@ -159,11 +159,11 @@ const ntbaa = document.querySelector("#lmb_1");
         window.scrollTo({top :findPosx(tit1),left :0, behavior:"smooth"});
     });
 
-// const ntbbb = document.querySelector("#lmb_2");
-//     ntbbb.addEventListener("click" , function()
-//     {
-//         window.scrollTo({top :findPosx(tit2)-20,left :0, behavior:"smooth"});
-//     });
+const ntbbb = document.querySelector("#lmb_2");
+    ntbbb.addEventListener("click" , function()
+    {
+        window.scrollTo({top :findPosx(tit2)-20,left :0, behavior:"smooth"});
+    });
 const ntbcc = document.querySelector("#lmb_3");
     ntbcc.addEventListener("click" , function()
     {
