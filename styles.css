@@ -2401,28 +2401,28 @@ border: #849097 solid 1px;
     background-size: 80%;
     background-position: center;
 }
-.partenaire_card_contaner:nth-child(2) .partenaire_logo{
+/* .partenaire_card_contaner:nth-child(2) .partenaire_logo{
     background-image: url(images/muhandis.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
     background-size: 80%;
-}
-.partenaire_card_contaner:nth-child(3) .partenaire_logo{
+} */
+.partenaire_card_contaner:nth-child(2) .partenaire_logo{
     background-image: url(images/petroleum.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
     background-size: 70%;
 }
-.partenaire_card_contaner:nth-child(4) .partenaire_logo{
+.partenaire_card_contaner:nth-child(3) .partenaire_logo{
     background-image: url(images/at.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
     background-size: 80%;
 }
-.partenaire_card_contaner:nth-child(5) .partenaire_logo{
+.partenaire_card_contaner:nth-child(4) .partenaire_logo{
     background-color: #272D3C;
     background-image: url(images/ecc.png);
     background-repeat: no-repeat;
