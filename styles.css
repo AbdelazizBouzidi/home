@@ -931,7 +931,7 @@ a.navbar__links{
     padding: 3px 8px;
     line-height: 1;
 }
-#durevent,#prizes{
+#prizes{
     color: #8b8b8b;
     pointer-events: none;
 }
@@ -1331,8 +1331,8 @@ a.navbar__links{
     left: 2px;
 }
 #nav_tit_2{ 
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     position: relative;
     left: -4px;
     margin-left: 13px;
@@ -1416,11 +1416,8 @@ a.navbar__links{
 
 .titre_2{
     display: flex;
-    flex-direction: column;
     width: 100%;
     min-height: 600px;
-    align-items: center;
-    justify-content: center;
     grid-area: area4;
 
 
@@ -1430,9 +1427,6 @@ a.navbar__links{
     overflow: hidden;
     opacity: 0; */
     
-}
-.t2_txt_part .titre_6_titel h2{
-    transform: translate(-30px,-30px);
 }
 .t2_txt_part{
     display: flex;
@@ -1449,36 +1443,22 @@ a.navbar__links{
     margin: 0 0 0 70px;
     font-size: 18px;
     text-align: center;
-    line-height: 34px;
 }
 .txt_lastedit h3{
-    font-size: 26px;
-    font-weight: 500;
-    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 25px;
 }
 .txt_lastedit h4{
     font-size: 20px;
-    font-weight: 500;
-    
-    margin:35px 25px 30px 0 ;
-}
-.txt_lastedit h4 span{
-    font-size: 28px;
     font-weight: 600;
-}
-.txt_lastedit i{
-    margin-right: 15px;
-}
-.fas.fa-chevron-circle-right{
-    font-size: 14px;
-    opacity: 0.8;
+    margin-bottom: 25px;
 }
 .img_lastedit{
     width: 0;
     display: flexbox;
     margin: 40px;
 }
-
 
 
 
@@ -4014,8 +3994,8 @@ margin: 2px;
         margin-left: 10px;
     }
     #nav_tit_2{ 
-        width: 25px;
-        height: 25px;
+        width: 20px;
+        height: 20px;
         left: 0px;
     }
     #nav_tit_3{ 
@@ -4082,15 +4062,8 @@ margin: 2px;
        
     }
 
-    .t2_txt_part .titre_6_titel h2{
-        font-size: 30px;
-    }
-    .txt_lastedit h3{
-        font-size: 24px;
-    }
-    .t2_txt_part .titre_6_titel h2{
-        transform: translate(-15px,-30px);
-    }
+
+
 }
 
 
